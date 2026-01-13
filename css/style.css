@@ -898,4 +898,11 @@ img {
         padding: 0.6rem 1rem;
         font-size: 0.9rem;
     }
+
+}
+
+body.dark-theme_123{
+  background: var(--bg);
+  color: var(--text);
+  font-family: Inter, system-ui, Arial, sans-serif;
 }
